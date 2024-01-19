@@ -1,6 +1,11 @@
 #jp-MainLogo {
     background-image: url(./images/logo.png);
     background-repeat: no-repeat;
+    width: 150px;
+    height: 40px;
+    padding-left: 233px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 #jp-MainLogo>svg {
@@ -10,6 +15,11 @@
 #jp-RetroLogo {
     background-image: url(./images/logo.png);
     background-repeat: no-repeat;
+    width: 150px;
+    height: 40px;
+    padding-left: 233px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 #jp-RetroLogo>svg {
